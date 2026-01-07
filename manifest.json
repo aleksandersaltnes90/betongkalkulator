@@ -1,0 +1,12 @@
+{
+  "name": "Saltnes støp og ølkalkulator",
+  "short_name": "Støp & Øl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2b2b2b",
+  "theme_color": "#f4b400",
+  "icons": [
+    {"src": "/static/icon-192.png","sizes": "192x192","type": "image/png"},
+    {"src": "/static/icon-512.png","sizes": "512x512","type": "image/png"}
+  ]
+}
